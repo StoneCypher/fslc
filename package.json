@@ -1,6 +1,6 @@
 {
   "name": "fslc",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Finite State Language reference compiler",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/StoneCypher/fslc/issues"
   },
-  "homepage": "https://github.com/StoneCypher/fslc#readme"
+  "homepage": "https://github.com/StoneCypher/fslc#readme",
+  "keywords": [
+    "fsl",
+    "fslc",
+    "compiler",
+    "fsl-compiler",
+    "fsl_compiler",
+    "fslcompiler"
+  ]
 }
